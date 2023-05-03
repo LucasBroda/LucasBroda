@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @LucasBroda
-- 👀 I’m interested in informatic
-- 🌱 I’m currently learning python,java,sql,Hugo
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in informatic, I(m actually a studient in computer science at the IUT of Lens
+- 🌱 I’m currently learning php(Laravel), typescript(Angular), javascript, and some stuff in HTML/CSS 
+
 
 <!---
 LucasBroda/LucasBroda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
