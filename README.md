@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LucasBroda
-- 👀 I’m interested in informatic, I'm actually a studient in computer science at the IUT of Lens, I'm currently in my third year of BUT Informatique.
+- 👀 I’m interested in informatic, I'm actually a studient in computer engineering at ISEN Lille, I'm doing those studies in school/work, and I'm working for BPCE SI.
 - 🌱 I’m currently learning typescript(Angular),NextJS, NestJS, React, NodeJS, C, 
 - 🌱 I'm also learning how to use Docker, Kubernetes, and some CI/CD stuff
 
